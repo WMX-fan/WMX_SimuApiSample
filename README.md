@@ -12,7 +12,11 @@ WMX3のシミュレータ機能を用いて、実機（ハードウェア）が�
 
 🔧 開発環境 (Requirements)
 OS:Windows
+
 WMX3.6
+
+Visual Studio 2019
+
 
 
 📊 動作確認方法
